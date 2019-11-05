@@ -6,7 +6,7 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /Speech/
 
 # Website info
 title: Ghost
@@ -70,9 +70,9 @@ feed:
 safe: False
 lsi: False
 username: jekyller
-repo: jasper2
+repo: Speech
 branch: master
-relative_source: ../jasper2/
+relative_source: ../Speech/
 destination: ../jasper2-pages/
 production_url:  https://jekyller.github.io/jasper2/
 source_url:  https://github.com/jekyller/jasper2/
