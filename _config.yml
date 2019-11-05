@@ -9,8 +9,8 @@ words_per_minute: 200
 baseurl: /Speech/
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: Speech Process
+description: Anything about speech
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
