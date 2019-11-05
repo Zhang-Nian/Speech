@@ -10,6 +10,7 @@ tags:
   - DNN
   - HMM
   - 笔记
+  - Kaldi
 ---
 
 Considerring printing different types with this common idiom:
