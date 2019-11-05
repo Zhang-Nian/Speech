@@ -1,14 +1,14 @@
 ---
-title: "「SF-QC」2 TypeClasses"
+title: "「Speech Recognition」2 TypeClasses"
 subtitle: "Quickcheck - A Tutorial on Typeclasses in Coq"
 layout: post
-author: "Hux"
+author: "ZhangNian"
 header-style: text
 hidden: true
 tags:
-  - SF (软件基础)
-  - QC (Quickcheck)
-  - Coq
+  - Speech Recognition
+  - DNN
+  - HMM
   - 笔记
 ---
 
