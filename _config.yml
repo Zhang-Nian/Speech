@@ -1,12 +1,11 @@
 # Site settings
-title: ZhangNian Blog
-SEOTitle: 张念的博客 | ZhangNian Blog
+title: ZhNian Blog
+SEOTitle: 张念的博客 | ZhNian Blog
 header-img: img/home-bg.jpg
 email: zhanghenshui945@gmail.com
 description: "走进语音世界"
 keyword: "张念, 博客, 个人网站, 人工智能, 语音识别"
-# url: "https://huangxuan.me"              # your host, for absolute URL
-baseurl: "/Speech/"                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/Speech/"               
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -42,7 +41,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: ZhangNian
+disqus_username: ZhNian
 
 # Netease settings
 netease_comment: false
