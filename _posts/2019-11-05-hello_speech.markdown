@@ -13,6 +13,7 @@ tags:
 
 > “Yeah It's on. ”
 
+[toc]
 
 ZhangNian 的Speech Blog 准备开通了。
 
