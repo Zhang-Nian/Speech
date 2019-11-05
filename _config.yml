@@ -9,14 +9,12 @@ words_per_minute: 200
 baseurl: /Speech/
 
 # Website info
-title: Speech
-description: Anything about speech
+title: Welcome to Speech World
+description: Anything about speech processing
 cover: assets/images/blog-cover.jpg
 #logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-#production_url: https://jekyller.github.io/jasper2/
-#source_url: https://github.com/jekyller/jasper2/
 CNAME: #add cname for website to be created
 
 # Social info
