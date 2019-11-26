@@ -1,6 +1,6 @@
 # Site settings
-title: ZhNian Blog
-SEOTitle: 张念的博客 | ZhNian Blog
+title: Zngian Blog
+SEOTitle: 张念的博客 | Zngian Blog
 header-img: img/sleek_lg.jpg
 email: zhanghenshui945@gmail.com
 description: "走进语音世界"
@@ -41,7 +41,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: ZhNian
+disqus_username: Zngian
 
 # Netease settings
 netease_comment: false
